@@ -2,3 +2,6 @@
 	path = godot-cpp
 	url = https://github.com/godotengine/godot-cpp
 	branch = 4.4
+[submodule "demo/addons/int-line-edit"]
+	path = demo/addons/int-line-edit
+	url = https://github.com/beckymorley/int-line-edit.git
